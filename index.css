@@ -9,7 +9,7 @@ html, body {
 
 #navbar{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 #navbar img {
@@ -86,4 +86,5 @@ ul li:hover {
     background-color: #FFECC7;
     color: #303c4e;
     cursor: pointer;
+
 }
