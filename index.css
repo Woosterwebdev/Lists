@@ -9,7 +9,7 @@ html, body {
 
 #navbar{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 #navbar img {
@@ -88,4 +88,5 @@ ul li:hover {
     cursor: pointer;
 
 }
+
 
